@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <courrier id="">
-<lettre date="jj/mm/aaaa" objet="">
-<adressExpedition N="" nom="" N-appartment="" rue="" codePostale="" ville=""/>
-<adressDestination N="" nom="" N-appartment="" rue="" codePostale="" ville="" pays=""/>
+<lettre>
+<date>jj/mm/aaaa</date>
+<adress type ="expedtion">
+<numero></numero>
+<nom></nom>
+<appartement></appartement>
+<rue><rue>
+<codePostele></codePostale>
+<ville></ville>
+</adress>
+<adress type ="destination">
+<numero></numero>
+<nom></nom>
+<appartement></appartement>
+<rue><rue>
+<codePostele></codePostale>
+<ville></ville>
+<pays></pays>
+</adress>
+<objet></objet>
 <corps>
 <paragraphe>
 </paragraphe>

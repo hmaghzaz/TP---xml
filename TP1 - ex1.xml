@@ -3,11 +3,20 @@
 <monde>
 <continent nom="Afrique">
 <list>
-<pays nom="Maroc" capitale="Rabat" devise="MAD"/> 
+<pays>
+<nom>maroc</nom>
+<capitale>Rabat<capitale>
+<devise>MAD<devise>
+</pays> 
 </list>
 </continent>
 <continent nom="Europe"/>
-<continent nom="Asie">
+<list>
 <pays></pays>
+</list>
+<continent nom="Asie">
+<list>
+<pays></pays>
+</list>
 </continent>
 </monde>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<evenemt>
+<titre></titre>
+<theme><theme>
+<date>jj/mm/aaaa</date>
+<budget devise=""></budget>
+<activite>
+<nom></nom>
+<duree></duree>
+</activite>
+<invite id="">
+<nom></nom>
+<nomEtblissement></nomEtblissement>
+</invite>
+<intervenant id="">
+<nom></nom>
+<nomEtblissement></nomEtblissement>
+<langue></langue>
+</intervenant>
+</evenemt>
