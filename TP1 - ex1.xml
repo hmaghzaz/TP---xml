@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<monde>
+<continent nom="Afrique">
+<list>
+<pays nom="Maroc" capitale="Rabat" devise="MAD"/> 
+</list>
+</continent>
+<continent nom="Europe"/>
+<continent nom="Asie">
+<pays></pays>
+</continent>
+</monde>
