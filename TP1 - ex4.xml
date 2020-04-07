@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<bouteilleEau>
+<bouteille>
+<marque>Cristaline</marque>
+<quantite unite="cl">150</quantite>
+<caracteristque>
+<calcium unite="mg/l">71</calcium>
+<magnesium unite="mg/l">5.5</magnesium>
+<chlorure unite="mg/l">20</chlorure>
+<nitrate unite="mg/l">1</nitrate>
+</caracteristque>
+<source>
+<nom>St-Cyr</nom>
+<lieu>Loiret</lieu>
+</source>
+<codeBarre>3274080005003</codeBarre>
+<ph>7.45</ph>
+</bouteille>
+
+<bouteille>
+<marque>Cristaline</marque>
+<quantite unite="cl">50</quantite>
+<caracteristque>
+<calcium unite="mg/l">98</calcium>
+<magnesium unite="mg/l">4</magnesium>
+<chlorure unite="mg/l">3.6</chlorure>
+<nitrate unite="mg/l">2</nitrate>
+</caracteristque>
+<source>
+<nom>Aurèle</nom>
+<lieu>Alpes Maritimes</lieu>
+</source>
+<codeBarre>3268840001008</codeBarre>
+<ph>7.4</ph>
+</bouteille>
+
+<bouteille>
+<marque>Volvic</marque>
+<quantite unite="cl">50</quantite>
+<caracteristque>
+<calcium unite="mg/l">11.5</calcium>
+<magnesium unite="mg/l">8</magnesium>
+<chlorure unite="mg/l">13.5</chlorure>
+<nitrate unite="mg/l">6.3</nitrate>
+</caracteristque>
+<source>
+<nom>Volvic</nom>
+<lieu>Volvic</lieu>
+</source>
+<codeBarre>3057640117008</codeBarre>
+<ph>7</ph>
+</bouteille>
+</bouteilleEau>
