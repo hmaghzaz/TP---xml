@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<courrier id="">
+<lettre date="jj/mm/aaaa" objet="">
+<adressExpedition N="" nom="" N-appartment="" rue="" codePostale="" ville=""/>
+<adressDestination N="" nom="" N-appartment="" rue="" codePostale="" ville="" pays=""/>
+<corps>
+<paragraphe>
+</paragraphe>
+</corps>
+</lettre>
+</courrier>
