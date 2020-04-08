@@ -3,8 +3,9 @@
 <courrier id="">
 <lettre>
 <date>jj/mm/aaaa</date>
-<adress type ="expedtion">
-<numero></numero>
+<!--on peut aussi créer deux balise une pour destination et autre pr expidition-->
+<adress type ="expedtion" numero ="124">
+<civil></civil>
 <nom></nom>
 <appartement></appartement>
 <rue><rue>

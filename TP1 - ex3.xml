@@ -4,7 +4,10 @@
 <titre></titre>
 <theme><theme>
 <date>jj/mm/aaaa</date>
-<budget devise=""></budget>
+<lieu></lieu>
+<budget devise="">
+<montant></montant>
+</budget>
 <activite>
 <nom></nom>
 <duree></duree>
