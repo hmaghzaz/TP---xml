@@ -14,7 +14,7 @@
     <VehiculeType>Car</VehiculeType>
     <DateOfIssue>20/may/2010</DateOfIssue>
     <ExpirtyDate>20/may/2015</ExpirtyDate>
-    <Photo location="servername/filename'/>
+    <Photo location="servername/filename"/>
     <address>
     	<street>Stevens dr</street>
     	<city>King of prussia</city>
