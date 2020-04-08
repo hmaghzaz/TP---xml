@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
-<DriversLicenses>
+<!-- This document holds the license informations -->
+<DriversLicenses status="suspended">
+ <![CDATA[
+  CDATA blocks are used to give some examples
+  of your xml document or how to use various elements 
+  in your xml document 
+ ]]>
     <Nubmer>12345</Nubmer>
     <FirstName>Max</FirstName>
     <LastName>yan</LastName>
@@ -8,4 +14,12 @@
     <VehiculeType>Car</VehiculeType>
     <DateOfIssue>20/may/2010</DateOfIssue>
     <ExpirtyDate>20/may/2015</ExpirtyDate>
+    <Photo location="servername/filename'/>
+    <address>
+    	<street>Stevens dr</street>
+    	<city>King of prussia</city>
+    	<state>PA</state>
+    	<country>USA</country>
+    	<zipcode>19406</zipcode>
+    </address>
 </DriversLicenses>
